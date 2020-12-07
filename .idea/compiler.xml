@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meite-shop-basics-springcloud-eureka" />
+        <module name="meite-shop-service-api-member" />
+        <module name="meite-shop-service-api-weixin" />
+        <module name="meite-shop-service-api-weixin-dto" />
+        <module name="meite-shop-service-member" />
+        <module name="meite-shop-service-weixin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
